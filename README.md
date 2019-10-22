@@ -11,3 +11,6 @@ of this system by using N-body numerical method (Ahmad-Cohen Scheme) and investi
 The three-dimensional numerical simulation was carried out in the interval from 50 to 100 bodies. In the process of modeling of course the necessary laws of physics were taken into account, excluding
 some specifics (for example, Hawking radiation), and various ways to optimize the computational
 process (Ahmad-Cohen scheme) were used.
+---
+* [Sourse code](https://github.com/MLunov/My-Bachelor-Final-Project-MEPHI/tree/master/N-body%20(AC%20scheme))
+* [Results](https://github.com/MLunov/My-Bachelor-Final-Project-MEPHI/tree/master/Results)
