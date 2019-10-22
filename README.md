@@ -1,6 +1,6 @@
 # My Bachelor Final Project
 My Bachelor's Degree Final Project on Gravitational Dynamics of a Cluster of Primordial Black Holes in Applied Math and Computer Science at National Research Nuclear University MEPhI (Moscow Engineering Physics Institute)
-
+***
 ##  Abstract 
 During my bachelor's studies I was working in the area of gravity and cosmology
 in National Research Nuclear University MEPhI. I was studying gravitational dynamics of a cluster of primordial black holes (PBH) 
@@ -11,6 +11,6 @@ of this system by using N-body numerical method (Ahmad-Cohen Scheme) and investi
 The three-dimensional numerical simulation was carried out in the interval from 50 to 100 bodies. In the process of modeling of course the necessary laws of physics were taken into account, excluding
 some specifics (for example, Hawking radiation), and various ways to optimize the computational
 process (Ahmad-Cohen scheme) were used.
----
+***
 * [Sourse code](https://github.com/MLunov/My-Bachelor-Final-Project-MEPHI/tree/master/N-body%20(AC%20scheme))
 * [Results](https://github.com/MLunov/My-Bachelor-Final-Project-MEPHI/tree/master/Results)
